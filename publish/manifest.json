@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.03e0e11d3a0d5aee1d636fe518129dc1.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.65c9c7342b4c5c1716f4fa7f92746e90.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.de352b571b5ca6f1423a40f13d415582.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.e87f895d36f40d660e5aa72785486fa3.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.57af712e46a56dee082b426d04659a36.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "lilianandrade",
+  "short_name": "LILIAN ANDRADE STORE",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "ENVIAMOS PARA TODO BRASIL!",
+  "background_color": "#ffffff",
+  "theme_color": "#101010"
+}
